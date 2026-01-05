@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run app_7.py
+web: streamlit run rfv_app.py --server.port=$PORT --server.address=0.0.0.0
