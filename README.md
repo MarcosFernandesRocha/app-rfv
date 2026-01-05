@@ -37,7 +37,7 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lucas Serra  
+ex. Marcos Fernandes 
 ex. [@MarcosFernandes](https://www.linkedin.com/in/marcos-rocha-ciencia-de-dados/)
 
 ## Histórico de versões.
